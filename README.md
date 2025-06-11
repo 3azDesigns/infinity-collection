@@ -26,7 +26,7 @@ Each image is born from a vision of depth, stillness, and visual poetry.
 
 ## 🌐 Previews
 
-You can view a preview collage [here](https://i.postimg.cc/1tHnm64s/collage.png).  
+You can view a preview collage [here](https://raw.githubusercontent.com/3azDesigns/infinity-collection/main/collage/infinity-preview-collage.jpg).  
 Individual previews are available in the `previews/` folder.
 
 ## 🖼️ How to Use
